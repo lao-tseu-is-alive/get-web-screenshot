@@ -5,6 +5,7 @@ a nodejs script using https://github.com/puppeteer/puppeteer
 a nodejs script using puppeteer to audit a website url and get a screenshot of it.
 
 The script will also list all the requests done by the page, the metrics and timings.
+![Screenshot_terminal](https://raw.githubusercontent.com/lao-tseu-is-alive/get-web-screenshot/main/images/screenshot_terminal.png)
 
 
 #### Basic usage
