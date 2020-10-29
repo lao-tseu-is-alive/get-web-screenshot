@@ -1,0 +1,15 @@
+{
+  "name": "get-web-screenshot",
+  "version": "1.0.0",
+  "description": "nodejs script using puppeteer to audit a website url and get a screenshot of it. list all requests done by the page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^5.4.0"
+  }
+}
